@@ -11,7 +11,7 @@ import UIKit
 final class RMCharacterViewController: UIViewController {
 
     
-    private let chatacterListView = CharacterListView()
+    private let chatacterListView = RMCharacterListView()
     
     override func viewDidLoad() {
         super.viewDidLoad()
